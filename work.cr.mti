@@ -1,0 +1,26 @@
+C:/LogicDesign/Practice04/Practice04/tb_latch.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice04/Practice04/tb_latch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_sequential
+
+Top level modules:
+	tb_sequential
+
+} {} {}} C:/LogicDesign/Practice04/Practice04/tb_decoder.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice04/Practice04/tb_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_decoder
+
+Top level modules:
+	tb_decoder
+
+} {} {}} C:/LogicDesign/Practice04/Practice04/LatchFlipFlop.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice04/Practice04/LatchFlipFlop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module d_latch
+-- Compiling module dff_asyn
+-- Compiling module dff_syn
+
+Top level modules:
+	d_latch
+	dff_asyn
+	dff_syn
+
+} {} {}}
